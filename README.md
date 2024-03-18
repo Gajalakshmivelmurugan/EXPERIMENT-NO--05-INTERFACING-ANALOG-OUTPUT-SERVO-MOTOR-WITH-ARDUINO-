@@ -110,11 +110,9 @@ void loop()
 ### OUTPUT:
 
 ![exp5](https://github.com/Gajalakshmivelmurugan/EXPERIMENT-NO--05-INTERFACING-ANALOG-OUTPUT-SERVO-MOTOR-WITH-ARDUINO-/assets/144871940/542bdac0-4361-4ec6-b53b-5c6e06c0af57)
-
-### Schematic Diagram:
+ Schematic Diagram:
 ![rough diagram](https://github.com/Gajalakshmivelmurugan/EXPERIMENT-NO--05-INTERFACING-ANALOG-OUTPUT-SERVO-MOTOR-WITH-ARDUINO-/assets/144871940/5604c1de-8231-4a78-864b-c5c8b5269c81)
-
-### Graph for Serial Monitor values:
+Graph for Serial Monitor values:
 ![graph](https://github.com/Gajalakshmivelmurugan/EXPERIMENT-NO--05-INTERFACING-ANALOG-OUTPUT-SERVO-MOTOR-WITH-ARDUINO-/assets/144871940/779abb93-df96-414e-916c-83d1c9353852)
 
 
